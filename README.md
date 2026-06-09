@@ -52,4 +52,5 @@ author - Tuhin
 | [1115-print-foobar-alternately](https://github.com/FzAlpha/leetcode/tree/master/1115-print-foobar-alternately) |
 | [1116-print-zero-even-odd](https://github.com/FzAlpha/leetcode/tree/master/1116-print-zero-even-odd) |
 | [1117-building-h2o](https://github.com/FzAlpha/leetcode/tree/master/1117-building-h2o) |
+| [1226-the-dining-philosophers](https://github.com/FzAlpha/leetcode/tree/master/1226-the-dining-philosophers) |
 <!---LeetCode Topics End-->
