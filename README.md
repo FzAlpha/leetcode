@@ -9,6 +9,7 @@ author - Tuhin
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/FzAlpha/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0217-contains-duplicate](https://github.com/FzAlpha/leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,6 +22,7 @@ author - Tuhin
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/FzAlpha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/FzAlpha/leetcode/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -53,4 +55,8 @@ author - Tuhin
 | [1116-print-zero-even-odd](https://github.com/FzAlpha/leetcode/tree/master/1116-print-zero-even-odd) |
 | [1117-building-h2o](https://github.com/FzAlpha/leetcode/tree/master/1117-building-h2o) |
 | [1226-the-dining-philosophers](https://github.com/FzAlpha/leetcode/tree/master/1226-the-dining-philosophers) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/FzAlpha/leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
