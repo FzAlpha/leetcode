@@ -9,6 +9,7 @@ author - Tuhin
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/FzAlpha/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0135-candy](https://github.com/FzAlpha/leetcode/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/FzAlpha/leetcode/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
@@ -59,4 +60,8 @@ author - Tuhin
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/FzAlpha/leetcode/tree/master/0217-contains-duplicate) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/FzAlpha/leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
