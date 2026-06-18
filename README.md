@@ -9,6 +9,7 @@ author - Tuhin
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/FzAlpha/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0055-jump-game](https://github.com/FzAlpha/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/FzAlpha/leetcode/tree/master/0066-plus-one) |
 | [0135-candy](https://github.com/FzAlpha/leetcode/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/FzAlpha/leetcode/tree/master/0217-contains-duplicate) |
@@ -65,6 +66,7 @@ author - Tuhin
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/FzAlpha/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/FzAlpha/leetcode/tree/master/0135-candy) |
 ## Math
 |  |
@@ -77,5 +79,6 @@ author - Tuhin
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/FzAlpha/leetcode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/FzAlpha/leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
