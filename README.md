@@ -26,11 +26,13 @@ author - Tuhin
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/FzAlpha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/FzAlpha/leetcode/tree/master/0217-contains-duplicate) |
+| [1189-maximum-number-of-balloons](https://github.com/FzAlpha/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/FzAlpha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0392-is-subsequence](https://github.com/FzAlpha/leetcode/tree/master/0392-is-subsequence) |
+| [1189-maximum-number-of-balloons](https://github.com/FzAlpha/leetcode/tree/master/1189-maximum-number-of-balloons) |
 ## Sliding Window
 |  |
 | ------- |
@@ -81,4 +83,8 @@ author - Tuhin
 | ------- |
 | [0055-jump-game](https://github.com/FzAlpha/leetcode/tree/master/0055-jump-game) |
 | [0392-is-subsequence](https://github.com/FzAlpha/leetcode/tree/master/0392-is-subsequence) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/FzAlpha/leetcode/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
