@@ -13,6 +13,7 @@ author - Tuhin
 | [0066-plus-one](https://github.com/FzAlpha/leetcode/tree/master/0066-plus-one) |
 | [0135-candy](https://github.com/FzAlpha/leetcode/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/FzAlpha/leetcode/tree/master/0217-contains-duplicate) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/FzAlpha/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -21,12 +22,14 @@ author - Tuhin
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/FzAlpha/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/FzAlpha/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/FzAlpha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/FzAlpha/leetcode/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/FzAlpha/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/FzAlpha/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -87,4 +90,16 @@ author - Tuhin
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/FzAlpha/leetcode/tree/master/1189-maximum-number-of-balloons) |
+## Segment Tree
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/FzAlpha/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/FzAlpha/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/FzAlpha/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
