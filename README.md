@@ -12,6 +12,7 @@ author - Tuhin
 | [0055-jump-game](https://github.com/FzAlpha/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/FzAlpha/leetcode/tree/master/0066-plus-one) |
 | [0135-candy](https://github.com/FzAlpha/leetcode/tree/master/0135-candy) |
+| [0200-number-of-islands](https://github.com/FzAlpha/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/FzAlpha/leetcode/tree/master/0217-contains-duplicate) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/FzAlpha/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/FzAlpha/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -49,6 +50,7 @@ author - Tuhin
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/FzAlpha/leetcode/tree/master/0099-recover-binary-search-tree) |
+| [0200-number-of-islands](https://github.com/FzAlpha/leetcode/tree/master/0200-number-of-islands) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -105,4 +107,16 @@ author - Tuhin
 |  |
 | ------- |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/FzAlpha/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/FzAlpha/leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/FzAlpha/leetcode/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/FzAlpha/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
