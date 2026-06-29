@@ -14,6 +14,7 @@ author - Tuhin
 | [0135-candy](https://github.com/FzAlpha/leetcode/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/FzAlpha/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/FzAlpha/leetcode/tree/master/0217-contains-duplicate) |
+| [0994-rotting-oranges](https://github.com/FzAlpha/leetcode/tree/master/0994-rotting-oranges) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/FzAlpha/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/FzAlpha/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
@@ -111,6 +112,7 @@ author - Tuhin
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/FzAlpha/leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/FzAlpha/leetcode/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -119,4 +121,5 @@ author - Tuhin
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/FzAlpha/leetcode/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/FzAlpha/leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
