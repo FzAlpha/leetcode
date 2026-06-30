@@ -85,6 +85,7 @@ author - Tuhin
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/FzAlpha/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/FzAlpha/leetcode/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
@@ -125,4 +126,12 @@ author - Tuhin
 | ------- |
 | [0200-number-of-islands](https://github.com/FzAlpha/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/FzAlpha/leetcode/tree/master/0994-rotting-oranges) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/FzAlpha/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/FzAlpha/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
