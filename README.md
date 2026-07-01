@@ -16,11 +16,13 @@ author - Tuhin
 | [0217-contains-duplicate](https://github.com/FzAlpha/leetcode/tree/master/0217-contains-duplicate) |
 | [0994-rotting-oranges](https://github.com/FzAlpha/leetcode/tree/master/0994-rotting-oranges) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/FzAlpha/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/FzAlpha/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/FzAlpha/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/FzAlpha/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/FzAlpha/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -117,15 +119,18 @@ author - Tuhin
 | ------- |
 | [0200-number-of-islands](https://github.com/FzAlpha/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/FzAlpha/leetcode/tree/master/0994-rotting-oranges) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/FzAlpha/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/FzAlpha/leetcode/tree/master/0200-number-of-islands) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/FzAlpha/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/FzAlpha/leetcode/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/FzAlpha/leetcode/tree/master/0994-rotting-oranges) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/FzAlpha/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -134,4 +139,8 @@ author - Tuhin
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/FzAlpha/leetcode/tree/master/0002-add-two-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/FzAlpha/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
