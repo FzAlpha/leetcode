@@ -18,6 +18,7 @@ author - Tuhin
 | [0994-rotting-oranges](https://github.com/FzAlpha/leetcode/tree/master/0994-rotting-oranges) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/FzAlpha/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/FzAlpha/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/FzAlpha/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/FzAlpha/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
@@ -127,6 +128,7 @@ author - Tuhin
 | [0733-flood-fill](https://github.com/FzAlpha/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/FzAlpha/leetcode/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/FzAlpha/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/FzAlpha/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -139,6 +141,7 @@ author - Tuhin
 | [0733-flood-fill](https://github.com/FzAlpha/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/FzAlpha/leetcode/tree/master/0994-rotting-oranges) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/FzAlpha/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/FzAlpha/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Linked List
 |  |
 | ------- |
@@ -151,14 +154,20 @@ author - Tuhin
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/FzAlpha/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/FzAlpha/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/FzAlpha/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/FzAlpha/leetcode/tree/master/0210-course-schedule-ii) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/FzAlpha/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/FzAlpha/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/FzAlpha/leetcode/tree/master/0210-course-schedule-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/FzAlpha/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->
