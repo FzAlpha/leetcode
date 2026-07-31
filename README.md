@@ -38,6 +38,7 @@ author - Tuhin
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/FzAlpha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/FzAlpha/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0146-lru-cache](https://github.com/FzAlpha/leetcode/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/FzAlpha/leetcode/tree/master/0217-contains-duplicate) |
 | [1189-maximum-number-of-balloons](https://github.com/FzAlpha/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/FzAlpha/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -164,6 +165,7 @@ author - Tuhin
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/FzAlpha/leetcode/tree/master/0002-add-two-numbers) |
+| [0146-lru-cache](https://github.com/FzAlpha/leetcode/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -197,4 +199,12 @@ author - Tuhin
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/FzAlpha/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/FzAlpha/leetcode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/FzAlpha/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
