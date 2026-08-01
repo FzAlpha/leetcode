@@ -15,6 +15,7 @@ author - Tuhin
 | [0200-number-of-islands](https://github.com/FzAlpha/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/FzAlpha/leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/FzAlpha/leetcode/tree/master/0217-contains-duplicate) |
+| [0486-predict-the-winner](https://github.com/FzAlpha/leetcode/tree/master/0486-predict-the-winner) |
 | [0733-flood-fill](https://github.com/FzAlpha/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/FzAlpha/leetcode/tree/master/0994-rotting-oranges) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/FzAlpha/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -107,6 +108,7 @@ author - Tuhin
 | ------- |
 | [0002-add-two-numbers](https://github.com/FzAlpha/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/FzAlpha/leetcode/tree/master/0066-plus-one) |
+| [0486-predict-the-winner](https://github.com/FzAlpha/leetcode/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/FzAlpha/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
@@ -118,6 +120,7 @@ author - Tuhin
 | [0055-jump-game](https://github.com/FzAlpha/leetcode/tree/master/0055-jump-game) |
 | [0213-house-robber-ii](https://github.com/FzAlpha/leetcode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/FzAlpha/leetcode/tree/master/0392-is-subsequence) |
+| [0486-predict-the-winner](https://github.com/FzAlpha/leetcode/tree/master/0486-predict-the-winner) |
 | [3620-network-recovery-pathways](https://github.com/FzAlpha/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Counting
 |  |
@@ -170,6 +173,7 @@ author - Tuhin
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/FzAlpha/leetcode/tree/master/0002-add-two-numbers) |
+| [0486-predict-the-winner](https://github.com/FzAlpha/leetcode/tree/master/0486-predict-the-winner) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -207,4 +211,8 @@ author - Tuhin
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/FzAlpha/leetcode/tree/master/0146-lru-cache) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/FzAlpha/leetcode/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
