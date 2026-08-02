@@ -17,6 +17,7 @@ author - Tuhin
 | [0217-contains-duplicate](https://github.com/FzAlpha/leetcode/tree/master/0217-contains-duplicate) |
 | [0486-predict-the-winner](https://github.com/FzAlpha/leetcode/tree/master/0486-predict-the-winner) |
 | [0733-flood-fill](https://github.com/FzAlpha/leetcode/tree/master/0733-flood-fill) |
+| [0877-stone-game](https://github.com/FzAlpha/leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/FzAlpha/leetcode/tree/master/0994-rotting-oranges) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/FzAlpha/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/FzAlpha/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -109,6 +110,7 @@ author - Tuhin
 | [0002-add-two-numbers](https://github.com/FzAlpha/leetcode/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/FzAlpha/leetcode/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/FzAlpha/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/FzAlpha/leetcode/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/FzAlpha/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
@@ -121,6 +123,7 @@ author - Tuhin
 | [0213-house-robber-ii](https://github.com/FzAlpha/leetcode/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/FzAlpha/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/FzAlpha/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/FzAlpha/leetcode/tree/master/0877-stone-game) |
 | [3620-network-recovery-pathways](https://github.com/FzAlpha/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Counting
 |  |
@@ -215,4 +218,5 @@ author - Tuhin
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/FzAlpha/leetcode/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/FzAlpha/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
