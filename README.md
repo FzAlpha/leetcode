@@ -116,6 +116,7 @@ author - Tuhin
 | [0486-predict-the-winner](https://github.com/FzAlpha/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/FzAlpha/leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/FzAlpha/leetcode/tree/master/1406-stone-game-iii) |
+| [2413-smallest-even-multiple](https://github.com/FzAlpha/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/FzAlpha/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Two Pointers
 |  |
@@ -235,4 +236,8 @@ author - Tuhin
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/FzAlpha/leetcode/tree/master/1406-stone-game-iii) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/FzAlpha/leetcode/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
