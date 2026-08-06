@@ -80,6 +80,7 @@ author - Tuhin
 | [0210-course-schedule-ii](https://github.com/FzAlpha/leetcode/tree/master/0210-course-schedule-ii) |
 | [0733-flood-fill](https://github.com/FzAlpha/leetcode/tree/master/0733-flood-fill) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/FzAlpha/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
+| [3310-remove-methods-from-project](https://github.com/FzAlpha/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -163,6 +164,7 @@ author - Tuhin
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/FzAlpha/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/FzAlpha/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/FzAlpha/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/FzAlpha/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Union-Find
 |  |
 | ------- |
@@ -200,6 +202,7 @@ author - Tuhin
 | [0210-course-schedule-ii](https://github.com/FzAlpha/leetcode/tree/master/0210-course-schedule-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/FzAlpha/leetcode/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/FzAlpha/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3310-remove-methods-from-project](https://github.com/FzAlpha/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3620-network-recovery-pathways](https://github.com/FzAlpha/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
 |  |
