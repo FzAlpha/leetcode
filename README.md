@@ -62,6 +62,7 @@ author - Tuhin
 | [1980-find-unique-binary-string](https://github.com/FzAlpha/leetcode/tree/master/1980-find-unique-binary-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/FzAlpha/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/FzAlpha/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/FzAlpha/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -112,6 +113,7 @@ author - Tuhin
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/FzAlpha/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/FzAlpha/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/FzAlpha/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/FzAlpha/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Math
 |  |
 | ------- |
@@ -123,6 +125,7 @@ author - Tuhin
 | [2413-smallest-even-multiple](https://github.com/FzAlpha/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/FzAlpha/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/FzAlpha/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/FzAlpha/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -221,6 +224,7 @@ author - Tuhin
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/FzAlpha/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [1980-find-unique-binary-string](https://github.com/FzAlpha/leetcode/tree/master/1980-find-unique-binary-string) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/FzAlpha/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Design
 |  |
 | ------- |
@@ -247,6 +251,7 @@ author - Tuhin
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/FzAlpha/leetcode/tree/master/2413-smallest-even-multiple) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/FzAlpha/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
 |  |
 | ------- |
