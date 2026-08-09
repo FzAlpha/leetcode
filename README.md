@@ -19,6 +19,7 @@ author - Tuhin
 | [0733-flood-fill](https://github.com/FzAlpha/leetcode/tree/master/0733-flood-fill) |
 | [0877-stone-game](https://github.com/FzAlpha/leetcode/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/FzAlpha/leetcode/tree/master/0994-rotting-oranges) |
+| [1140-stone-game-ii](https://github.com/FzAlpha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/FzAlpha/leetcode/tree/master/1406-stone-game-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/FzAlpha/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1980-find-unique-binary-string](https://github.com/FzAlpha/leetcode/tree/master/1980-find-unique-binary-string) |
@@ -121,6 +122,7 @@ author - Tuhin
 | [0066-plus-one](https://github.com/FzAlpha/leetcode/tree/master/0066-plus-one) |
 | [0486-predict-the-winner](https://github.com/FzAlpha/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/FzAlpha/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/FzAlpha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/FzAlpha/leetcode/tree/master/1406-stone-game-iii) |
 | [2413-smallest-even-multiple](https://github.com/FzAlpha/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/FzAlpha/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -138,6 +140,7 @@ author - Tuhin
 | [0392-is-subsequence](https://github.com/FzAlpha/leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/FzAlpha/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/FzAlpha/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/FzAlpha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/FzAlpha/leetcode/tree/master/1406-stone-game-iii) |
 | [3620-network-recovery-pathways](https://github.com/FzAlpha/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Counting
@@ -156,6 +159,7 @@ author - Tuhin
 ## Prefix Sum
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/FzAlpha/leetcode/tree/master/1140-stone-game-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/FzAlpha/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Breadth-First Search
 |  |
@@ -238,14 +242,17 @@ author - Tuhin
 | ------- |
 | [0486-predict-the-winner](https://github.com/FzAlpha/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/FzAlpha/leetcode/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/FzAlpha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/FzAlpha/leetcode/tree/master/1406-stone-game-iii) |
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/FzAlpha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/FzAlpha/leetcode/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/FzAlpha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/FzAlpha/leetcode/tree/master/1406-stone-game-iii) |
 ## Number Theory
 |  |
