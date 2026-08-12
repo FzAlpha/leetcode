@@ -24,6 +24,7 @@ author - Tuhin
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/FzAlpha/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1980-find-unique-binary-string](https://github.com/FzAlpha/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/FzAlpha/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/FzAlpha/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/FzAlpha/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/FzAlpha/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/FzAlpha/leetcode/tree/master/3620-network-recovery-pathways) |
@@ -50,6 +51,7 @@ author - Tuhin
 | [1189-maximum-number-of-balloons](https://github.com/FzAlpha/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/FzAlpha/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1980-find-unique-binary-string](https://github.com/FzAlpha/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/FzAlpha/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/FzAlpha/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/FzAlpha/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/FzAlpha/leetcode/tree/master/3731-find-missing-elements) |
@@ -71,6 +73,7 @@ author - Tuhin
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/FzAlpha/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/FzAlpha/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/FzAlpha/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Tree
 |  |
 | ------- |
