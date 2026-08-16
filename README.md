@@ -23,6 +23,7 @@ author - Tuhin
 | [1406-stone-game-iii](https://github.com/FzAlpha/leetcode/tree/master/1406-stone-game-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/FzAlpha/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1980-find-unique-binary-string](https://github.com/FzAlpha/leetcode/tree/master/1980-find-unique-binary-string) |
+| [2029-stone-game-ix](https://github.com/FzAlpha/leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/FzAlpha/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/FzAlpha/leetcode/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/FzAlpha/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -124,6 +125,7 @@ author - Tuhin
 | [0055-jump-game](https://github.com/FzAlpha/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/FzAlpha/leetcode/tree/master/0135-candy) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/FzAlpha/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2029-stone-game-ix](https://github.com/FzAlpha/leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/FzAlpha/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/FzAlpha/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/FzAlpha/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -137,6 +139,7 @@ author - Tuhin
 | [1140-stone-game-ii](https://github.com/FzAlpha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/FzAlpha/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/FzAlpha/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/FzAlpha/leetcode/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/FzAlpha/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/FzAlpha/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/FzAlpha/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -161,6 +164,7 @@ author - Tuhin
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/FzAlpha/leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/FzAlpha/leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/FzAlpha/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Segment Tree
 |  |
@@ -260,18 +264,21 @@ author - Tuhin
 | [1140-stone-game-ii](https://github.com/FzAlpha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/FzAlpha/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/FzAlpha/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/FzAlpha/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/FzAlpha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/FzAlpha/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/FzAlpha/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/FzAlpha/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/FzAlpha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/FzAlpha/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/FzAlpha/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/FzAlpha/leetcode/tree/master/2029-stone-game-ix) |
 ## Number Theory
 |  |
 | ------- |
@@ -285,6 +292,7 @@ author - Tuhin
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/FzAlpha/leetcode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/FzAlpha/leetcode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
