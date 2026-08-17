@@ -21,6 +21,7 @@ author - Tuhin
 | [0994-rotting-oranges](https://github.com/FzAlpha/leetcode/tree/master/0994-rotting-oranges) |
 | [1140-stone-game-ii](https://github.com/FzAlpha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/FzAlpha/leetcode/tree/master/1406-stone-game-iii) |
+| [1563-stone-game-v](https://github.com/FzAlpha/leetcode/tree/master/1563-stone-game-v) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/FzAlpha/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1980-find-unique-binary-string](https://github.com/FzAlpha/leetcode/tree/master/1980-find-unique-binary-string) |
 | [2029-stone-game-ix](https://github.com/FzAlpha/leetcode/tree/master/2029-stone-game-ix) |
@@ -139,6 +140,7 @@ author - Tuhin
 | [1140-stone-game-ii](https://github.com/FzAlpha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/FzAlpha/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/FzAlpha/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/FzAlpha/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/FzAlpha/leetcode/tree/master/2029-stone-game-ix) |
 | [2413-smallest-even-multiple](https://github.com/FzAlpha/leetcode/tree/master/2413-smallest-even-multiple) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/FzAlpha/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -159,6 +161,7 @@ author - Tuhin
 | [1140-stone-game-ii](https://github.com/FzAlpha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/FzAlpha/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/FzAlpha/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/FzAlpha/leetcode/tree/master/1563-stone-game-v) |
 | [3620-network-recovery-pathways](https://github.com/FzAlpha/leetcode/tree/master/3620-network-recovery-pathways) |
 ## Counting
 |  |
@@ -264,6 +267,7 @@ author - Tuhin
 | [1140-stone-game-ii](https://github.com/FzAlpha/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/FzAlpha/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/FzAlpha/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/FzAlpha/leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/FzAlpha/leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
