@@ -30,6 +30,7 @@ author - Tuhin
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/FzAlpha/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/FzAlpha/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/FzAlpha/leetcode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/FzAlpha/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3620-network-recovery-pathways](https://github.com/FzAlpha/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/FzAlpha/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/FzAlpha/leetcode/tree/master/3731-find-missing-elements) |
@@ -59,6 +60,7 @@ author - Tuhin
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/FzAlpha/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/FzAlpha/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/FzAlpha/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/FzAlpha/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/FzAlpha/leetcode/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/FzAlpha/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
