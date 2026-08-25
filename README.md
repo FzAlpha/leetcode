@@ -35,6 +35,7 @@ author - Tuhin
 | [3471-find-the-largest-almost-missing-integer](https://github.com/FzAlpha/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3620-network-recovery-pathways](https://github.com/FzAlpha/leetcode/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/FzAlpha/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/FzAlpha/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/FzAlpha/leetcode/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/FzAlpha/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
@@ -65,6 +66,7 @@ author - Tuhin
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/FzAlpha/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/FzAlpha/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/FzAlpha/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/FzAlpha/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/FzAlpha/leetcode/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/FzAlpha/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## String
