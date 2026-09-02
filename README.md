@@ -38,6 +38,7 @@ author - Tuhin
 | [3718-smallest-missing-multiple-of-k](https://github.com/FzAlpha/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/FzAlpha/leetcode/tree/master/3731-find-missing-elements) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/FzAlpha/leetcode/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/FzAlpha/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +157,7 @@ author - Tuhin
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/FzAlpha/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/FzAlpha/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/FzAlpha/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3875-construct-uniform-parity-array-i](https://github.com/FzAlpha/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
